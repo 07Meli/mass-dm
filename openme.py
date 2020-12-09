@@ -9,4 +9,4 @@ client = discord.Client()
          print(f"messaged: {user.name}")
         except:
             print(f"couldnt message: {user.name}")
-client.run("YOUR-TOKEN"), bot=False)
+client.run("NTAxNDgwNDEzMDk3NjIzNTcz.X9EveQ.O7cXjz7tyIadwVz3i-PzShVeAc4"), bot=False)
